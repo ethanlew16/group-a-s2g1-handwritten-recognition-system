@@ -39,9 +39,5 @@ WPOD-Net architecture:
 <img src="assets/Project_Milestone_7.png" width="100%">
 <img src="assets/Project_Milestone_8.png" width="100%">
 
-#### Power Point:
-The flags indicate the milestones of our car plate recognition project
-<img src="assets/implementation/Time Management Gantt Chart.png" width="100%">
-
 <br><br><br>
 ##### Next: [Project Execution](D-PROJECT_EXECUTION.md)
