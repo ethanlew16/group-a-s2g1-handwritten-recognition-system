@@ -4,4 +4,4 @@
 Flowchart Design:
 <img src="assets/flowchart.JPG" width="60%">
 
- Car Plate Implementation Example
+Handwriting Recognition Example
