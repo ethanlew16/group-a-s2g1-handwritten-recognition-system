@@ -30,14 +30,14 @@ WPOD-Net architecture:
 
 ### Milestone Chart
 #### Microsoft Project:
-<img src="assets/Project_Milestone_1" width="100%">
-<img src="assets/Project_Milestone_2" width="100%">
-<img src="assets/Project_Milestone_3" width="100%">
-<img src="assets/Project_Milestone_4" width="100%">
-<img src="assets/Project_Milestone_5" width="100%">
-<img src="assets/Project_Milestone_6" width="100%">
-<img src="assets/Project_Milestone_7" width="100%">
-<img src="assets/Project_Milestone_8" width="100%">
+<img src="assets/Project_Milestone_1.png" width="100%">
+<img src="assets/Project_Milestone_2.png" width="100%">
+<img src="assets/Project_Milestone_3.png" width="100%">
+<img src="assets/Project_Milestone_4.png" width="100%">
+<img src="assets/Project_Milestone_5.png" width="100%">
+<img src="assets/Project_Milestone_6.png" width="100%">
+<img src="assets/Project_Milestone_7.png" width="100%">
+<img src="assets/Project_Milestone_8.png" width="100%">
 
 #### Power Point:
 The flags indicate the milestones of our car plate recognition project
