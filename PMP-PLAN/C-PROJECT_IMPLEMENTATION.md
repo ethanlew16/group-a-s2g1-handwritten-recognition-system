@@ -26,8 +26,7 @@ WPOD-Net architecture:
 |   Software         |RM380,000                        |  Licensed software and Handwritten recognition development                                                 |                              |
 |   Testing|RM64,650                           | Hardware and Software testing                                                       |                              |
 |   Training and Support              |RM153,500                           |  Trainee cost, Travelling and transportation	, and Project members allowance	RM125,000		
-     |                            |
-|   TOTAL                      |RM1,233,538                        |  Estimated     |                              |
+     |   TOTAL                      |RM1,233,538                        |  Estimated     |                              |
 
 ### Milestone Chart
 #### Microsoft Project:
