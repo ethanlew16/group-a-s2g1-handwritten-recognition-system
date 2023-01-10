@@ -30,7 +30,7 @@ WPOD-Net architecture:
 
 ### Milestone Chart
 #### Microsoft Project:
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_1.png" width="100%">
+<img src="assets/Project Milestone 1" width="100%">
 <img src="assets/implementation/QTMT Gantt Chart WBS_Page_2.png" width="100%">
 <img src="assets/implementation/QTMT Gantt Chart WBS_Page_3.png" width="100%">
 
