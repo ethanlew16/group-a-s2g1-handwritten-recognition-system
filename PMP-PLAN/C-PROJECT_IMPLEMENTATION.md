@@ -21,12 +21,13 @@ WPOD-Net architecture:
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
-|   Construction supervision   |$30000                         | Supervision on the project | 
-|   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
-|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
-|   Project signs              |$400                           |  Installation of project signs     |                            |
-|   TOTAL                      |$127200                        |  Estimated     |                              |
+|   Project Management          |RM169,965                         |  Project manager, team members, and developer engineers      |      
+|   Hardware   |RM266,500                         | Handheld devices, servers, AI Stylus pen and touch sensitive screen, and Optical character recognition (OCR) tool| 
+|   Software         |RM380,000                        |  Licensed software and Handwritten recognition development                                                 |                              |
+|   Testing|RM64,650                           | Hardware and Software testing                                                       |                              |
+|   Training and Support              |RM153,500                           |  Trainee cost, Travelling and transportation	, and Project members allowance	RM125,000		
+     |                            |
+|   TOTAL                      |RM1,233,538                        |  Estimated     |                              |
 
 ### Milestone Chart
 #### Microsoft Project:
