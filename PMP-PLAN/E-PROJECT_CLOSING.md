@@ -24,14 +24,14 @@ After the system has been completed, we tested the accuracy of the system. The s
 
 The project member sticks to the Gantt chart scheduled so, the actual progress fits the original schedule.
 
-<img src="assets/planning/WBS1.png" width="100%">
-<img src="assets/planning/WBS2.png" width="100%">
+<img src="assets/Ori_and_actual_schedule_1.png" width="100%">
+<img src="assets/Ori_and_actual_schedule_2.png" width="100%">
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
-<img src="assets/closing/budget.PNG" width="100%">
+<img src="assets/estimate _and_actual_budget.PNG" width="100%">
 
 **5.0 PROJECT ASSESSMENT**
 
