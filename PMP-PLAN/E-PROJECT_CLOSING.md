@@ -37,16 +37,15 @@ The actual budget matches the original budget, which means that the team has fol
 
 **5.1 SCOPE**
 
-The project scope was initiated from the beginning of the project. For instance, the system is not able to detect unique number plates that does not follow the rules set by the government. Unique number plates that cannot be recognise includes number plates that are reflective, and also number plate with special fonts. The system also scopes down the limit of the project by only detect alphabet and number character. Therefore, this system may not be used by countries like China or Thailand, which includes Thai and Mandarin in their number plates.
+The project scope was initiated from the beginning of the project. For instance, the system is not able to detect the handwriting if the handwriting is too blurry and messy. If the image of hanwdriting reflective, and with special fonts also cannot run for the recognition. The system also scopes down the limit of the project by only detect alphabet and number character. Therefore, this system may not be used by countries like China or Thailand, which includes Thai and Mandarin.
 
 **5.2 OBJECTIVES**
 
-QTMT Inc. managed to achieve the objectives initialized since the beginning of the project. A system that is artificial intelligence powered, which uses deep-learning technique has been made. Deep learning is used in this project to identify the location of the number plate on the image and also read the characters on the number plate. 
-Besides, FAST API is used to implement the python program that are used to recognise the number plate into a html website. By using this method, our objective of building an API in the system was met.
+The main objective is to recognize online handwritten documents, which includes characters, words, lines, paragraphs etc. A system that is artificial intelligence powered, which uses deep-learning technique has been made. Deep learning is used in this project to identify the image and read the characters od the handwriting. 
 
 **5.3 IMPACTS**
 
-By creating this system, the time needed of queueing up in front of the barrier gateway before entering the mall’s car park has been reduced. This can avoid traffic obstruction caused by the long queue. The process of paying the parking fees will also become more convenient as shoppers will no longer need to queue up in front of the auto pay machine and wait for their turn to pay for the parking fees. The parking fees will be automatically conducted from the account registered by the users after their number plate has been recognize. 
+By creating this system, it can be use for the historical preservation. Historical papers mostly exists has physical format. Examples of historical papers are genealogical information, written manuscripts, old family records, and some personal diaries and sometimes even shared old past stories. It helps to transform the writings in the papers to a text document format which can also be said as readable electronic format. By this way, historical facts can be stored, reviewed and shared easily to many people.From the perspective of teachers and professors, this system can help them identify the fonts of different students, making it easier for them to mark the test papers
 
 **6.0 TRANSITION PLAN**
 
